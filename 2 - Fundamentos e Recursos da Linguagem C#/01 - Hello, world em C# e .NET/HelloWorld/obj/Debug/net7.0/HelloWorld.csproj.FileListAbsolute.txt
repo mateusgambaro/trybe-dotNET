@@ -1,0 +1,14 @@
+/Users/mateusgambaro/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/mateusgambaro/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/mateusgambaro/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/mateusgambaro/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/mateusgambaro/Desktop/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/mateusgambaro/Desktop/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
